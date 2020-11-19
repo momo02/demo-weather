@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Nomad coders - React Native로 날씨앱 만들기 강좌 실습",
+    "githubUrl": "https://github.com/momo02/demo-weather.git"
   }
 }
